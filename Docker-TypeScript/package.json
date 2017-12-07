@@ -13,5 +13,8 @@
     "typescript": "^2.3.2",
     "nodemon": "^1.11.0"
   },
-  "main": "./dist/index.js"
+  "main": "./dist/index.js",
+  "dependencies": {
+    "injection-js": "^2.2.1"
+  }
 }
